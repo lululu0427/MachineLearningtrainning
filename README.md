@@ -7,3 +7,7 @@
 ### https://github.com/alexminnaar/time-series-classification-and-clustering/tree/master<br>
 ## ML-Neuralnetwork<br>
 ### [https://github.com/alexminnaar/time-series-classification-and-clustering/tree/master](https://github.com/mattm/simple-neural-network/blob/master/neural-network.py)https://github.com/mattm/simple-neural-network/blob/master/neural-network.py<br>
+### https://colab.research.google.com/drive/1ChUrWLjvw3TJI4AU2cgDZLY-bnMxKywH#scrollTo=xclk9PAxEFvC<br>
+## ML-supportVectorMachine<br>
+### https://github.com/mahesh147/Support-Vector-Machine/blob/master/support_vector_machine.py<br>
+### https://github.com/Jean-njoroge/Breast-cancer-risk-prediction/blob/master/NB4_PredictiveModelUsingSVM.ipynb<br>
