@@ -11,6 +11,7 @@
 ## ML-supportVectorMachine<br>
 ### https://github.com/mahesh147/Support-Vector-Machine/blob/master/support_vector_machine.py<br>
 ### https://github.com/Jean-njoroge/Breast-cancer-risk-prediction/blob/master/NB4_PredictiveModelUsingSVM.ipynb<br>
+### https://colab.research.google.com/drive/1qZdyaAsQyLqV5zxEpEKbeeehGkHr46aq?authuser=0#scrollTo=CPtj_SJhU9BB<br>
 ## 學習資源
 ### https://www.coursera.org/learn/ntumlone-mathematicalfoundations?aid=true&courseSlug=ntumlone-mathematicalfoundations&showOnboardingModal=check<br>
 ### https://www.coursera.org/learn/ntumlone-algorithmicfoundations<br>
