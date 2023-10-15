@@ -6,6 +6,7 @@
 ### 調整模型參數（threshold 、epoch、lr⋯⋯）
 ### 加入k-fold validation(加入後模型提升顯著，但訓練集過擬合)
 ### 模型資料參數存儲
+![image](https://github.com/lululu0427/MachineLearningtrainning/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-15%20225240.png)
 ## ML-Regression<br>
 ### https://github.com/syamkakarla98/Linear-Regression/blob/master/LinearRegression_BOSTON_Dataset.py<br>
 ### https://github.com/ravising-h/Diabetes-Datasets-LinearRegression/blob/master/0000000000002329_training_diabetes_x_y_train%20(1).csv<br>
