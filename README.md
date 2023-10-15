@@ -1,4 +1,11 @@
 # MachineLearningtrainning
+## Lupus_Nephritis_TF4
+### SMOTE合成少數樣本過採樣    
+### 調整selectKBest
+### 加入正則化、dropout層降低過擬合
+### 調整模型參數（threshold 、epoch、lr⋯⋯）
+### 加入k-fold validation(加入後模型提升顯著，但訓練集過擬合)
+### 模型資料參數存儲
 ## ML-Regression<br>
 ### https://github.com/syamkakarla98/Linear-Regression/blob/master/LinearRegression_BOSTON_Dataset.py<br>
 ### https://github.com/ravising-h/Diabetes-Datasets-LinearRegression/blob/master/0000000000002329_training_diabetes_x_y_train%20(1).csv<br>
